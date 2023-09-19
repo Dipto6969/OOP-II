@@ -1,0 +1,3 @@
+F:\Visual Studio Projects\GroceryStore2\obj\Debug\GroceryStore2.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\GroceryStore2\obj\Debug\GroceryStore2.csproj.SuggestedBindingRedirects.cache
+F:\Visual Studio Projects\GroceryStore2\obj\Debug\GroceryStore2.csproj.CoreCompileInputs.cache

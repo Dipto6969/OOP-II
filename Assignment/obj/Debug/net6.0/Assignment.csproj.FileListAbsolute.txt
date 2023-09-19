@@ -1,0 +1,15 @@
+F:\Visual Studio Projects\Assignment\bin\Debug\net6.0\Assignment.exe
+F:\Visual Studio Projects\Assignment\bin\Debug\net6.0\Assignment.deps.json
+F:\Visual Studio Projects\Assignment\bin\Debug\net6.0\Assignment.runtimeconfig.json
+F:\Visual Studio Projects\Assignment\bin\Debug\net6.0\Assignment.dll
+F:\Visual Studio Projects\Assignment\bin\Debug\net6.0\Assignment.pdb
+F:\Visual Studio Projects\Assignment\obj\Debug\net6.0\Assignment.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\Assignment\obj\Debug\net6.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Projects\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfoInputs.cache
+F:\Visual Studio Projects\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfo.cs
+F:\Visual Studio Projects\Assignment\obj\Debug\net6.0\Assignment.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\Assignment\obj\Debug\net6.0\Assignment.dll
+F:\Visual Studio Projects\Assignment\obj\Debug\net6.0\refint\Assignment.dll
+F:\Visual Studio Projects\Assignment\obj\Debug\net6.0\Assignment.pdb
+F:\Visual Studio Projects\Assignment\obj\Debug\net6.0\Assignment.genruntimeconfig.cache
+F:\Visual Studio Projects\Assignment\obj\Debug\net6.0\ref\Assignment.dll

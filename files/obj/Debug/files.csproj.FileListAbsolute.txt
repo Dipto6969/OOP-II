@@ -1,0 +1,11 @@
+F:\Visual Studio Projects\files\obj\Debug\files.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\files\obj\Debug\files.csproj.SuggestedBindingRedirects.cache
+F:\Visual Studio Projects\files\obj\Debug\files.Form1.resources
+F:\Visual Studio Projects\files\obj\Debug\files.Properties.Resources.resources
+F:\Visual Studio Projects\files\obj\Debug\files.csproj.GenerateResource.cache
+F:\Visual Studio Projects\files\obj\Debug\files.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\files\bin\Debug\files.exe.config
+F:\Visual Studio Projects\files\bin\Debug\files.exe
+F:\Visual Studio Projects\files\bin\Debug\files.pdb
+F:\Visual Studio Projects\files\obj\Debug\files.exe
+F:\Visual Studio Projects\files\obj\Debug\files.pdb

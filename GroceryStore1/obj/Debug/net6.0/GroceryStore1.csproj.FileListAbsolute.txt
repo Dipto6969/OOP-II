@@ -1,0 +1,12 @@
+F:\Visual Studio Projects\GroceryStore1\bin\Debug\net6.0\GroceryStore1.deps.json
+F:\Visual Studio Projects\GroceryStore1\bin\Debug\net6.0\GroceryStore1.dll
+F:\Visual Studio Projects\GroceryStore1\bin\Debug\net6.0\GroceryStore1.pdb
+F:\Visual Studio Projects\GroceryStore1\obj\Debug\net6.0\GroceryStore1.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\GroceryStore1\obj\Debug\net6.0\GroceryStore1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Projects\GroceryStore1\obj\Debug\net6.0\GroceryStore1.AssemblyInfoInputs.cache
+F:\Visual Studio Projects\GroceryStore1\obj\Debug\net6.0\GroceryStore1.AssemblyInfo.cs
+F:\Visual Studio Projects\GroceryStore1\obj\Debug\net6.0\GroceryStore1.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\GroceryStore1\obj\Debug\net6.0\GroceryStore1.dll
+F:\Visual Studio Projects\GroceryStore1\obj\Debug\net6.0\refint\GroceryStore1.dll
+F:\Visual Studio Projects\GroceryStore1\obj\Debug\net6.0\GroceryStore1.pdb
+F:\Visual Studio Projects\GroceryStore1\obj\Debug\net6.0\ref\GroceryStore1.dll

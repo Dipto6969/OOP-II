@@ -1,0 +1,11 @@
+F:\Visual Studio Projects\Shop\bin\Debug\Shop.exe.config
+F:\Visual Studio Projects\Shop\bin\Debug\Shop.exe
+F:\Visual Studio Projects\Shop\bin\Debug\Shop.pdb
+F:\Visual Studio Projects\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\Shop\obj\Debug\Shop.csproj.SuggestedBindingRedirects.cache
+F:\Visual Studio Projects\Shop\obj\Debug\Shop.Form1.resources
+F:\Visual Studio Projects\Shop\obj\Debug\Shop.Properties.Resources.resources
+F:\Visual Studio Projects\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+F:\Visual Studio Projects\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\Shop\obj\Debug\Shop.exe
+F:\Visual Studio Projects\Shop\obj\Debug\Shop.pdb

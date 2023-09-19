@@ -1,0 +1,17 @@
+F:\Visual Studio Projects\GroceryStore\bin\Debug\net6.0-windows\GroceryStore.exe
+F:\Visual Studio Projects\GroceryStore\bin\Debug\net6.0-windows\GroceryStore.deps.json
+F:\Visual Studio Projects\GroceryStore\bin\Debug\net6.0-windows\GroceryStore.runtimeconfig.json
+F:\Visual Studio Projects\GroceryStore\bin\Debug\net6.0-windows\GroceryStore.dll
+F:\Visual Studio Projects\GroceryStore\bin\Debug\net6.0-windows\GroceryStore.pdb
+F:\Visual Studio Projects\GroceryStore\obj\Debug\net6.0-windows\GroceryStore.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\GroceryStore\obj\Debug\net6.0-windows\GroceryStore.Form1.resources
+F:\Visual Studio Projects\GroceryStore\obj\Debug\net6.0-windows\GroceryStore.csproj.GenerateResource.cache
+F:\Visual Studio Projects\GroceryStore\obj\Debug\net6.0-windows\GroceryStore.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Projects\GroceryStore\obj\Debug\net6.0-windows\GroceryStore.AssemblyInfoInputs.cache
+F:\Visual Studio Projects\GroceryStore\obj\Debug\net6.0-windows\GroceryStore.AssemblyInfo.cs
+F:\Visual Studio Projects\GroceryStore\obj\Debug\net6.0-windows\GroceryStore.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\GroceryStore\obj\Debug\net6.0-windows\GroceryStore.dll
+F:\Visual Studio Projects\GroceryStore\obj\Debug\net6.0-windows\refint\GroceryStore.dll
+F:\Visual Studio Projects\GroceryStore\obj\Debug\net6.0-windows\GroceryStore.pdb
+F:\Visual Studio Projects\GroceryStore\obj\Debug\net6.0-windows\GroceryStore.genruntimeconfig.cache
+F:\Visual Studio Projects\GroceryStore\obj\Debug\net6.0-windows\ref\GroceryStore.dll
